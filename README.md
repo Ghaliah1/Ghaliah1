@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
 
-<p align="left"> <img src="github-pic.png
-" alt="ghaliah1" /> </p>
+<p align="left"> <img src="C:\Users\HP\Downloads\github-pic.png"
+ alt="ghaliah1" /> </p>
 
 - 🔭 I’m currently working on **front-end projects , CyberSecurity**
 
