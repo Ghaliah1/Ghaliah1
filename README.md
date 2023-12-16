@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
 
-<p align="left"> <img src="C:\Users\HP\Downloads\github-pic.png"
+<p align="left"> <img src="https://pin.it/551G37Y"
  alt="ghaliah1" /> </p>
 
 - 🔭 I’m currently working on **front-end projects , CyberSecurity**
