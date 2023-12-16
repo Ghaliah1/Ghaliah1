@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ghaliah</h1>
 <h3 align="center">CS Student</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.duEcuiba_-BrOs1p863qLQHaE8?w=600&h=400&rs=1&pid=ImgDetMain">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaliah1&label=Profile%20views&color=0e75b6&style=flat" alt="ghaliah1" /> </p>
+<p align="left"> <img src="![github-pic](https://github.com/Ghaliah1/Ghaliah1/assets/145565852/4acffe5d-5536-4597-afb2-23f7a18bc360)"
+ alt="ghaliah1" /> </p>
 
 - 🔭 I’m currently working on **front-end project**
 
