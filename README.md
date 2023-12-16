@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
 
-<p align="left"> <img src="https://www.freepik.com/premium-vector/man-laptop-virtual-reality-control_2620101.htm#page=3&query=computer%20illustration%20space&position=47&from_view=search&track=ais&uuid=85599d56-cb5d-41e2-9b53-c3ba91a6c490
+<p align="left"> <img src="https://th.bing.com/th/id/OIP.FO4_4GhRo4O_25yfB4PdvQHaDe?rs=1&pid=ImgDetMain
 "
  alt="ghaliah1" /> </p>
 
