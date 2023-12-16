@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
-<img src="https://d3npc921eoaj06.cloudfront.net/wp-content/uploads/2017/11/29102556/API-management-soluzioni.jpg" width=400 height=400/>
+<img src="https://d3npc921eoaj06.cloudfront.net/wp-content/uploads/2017/11/29102556/API-management-soluzioni.jpg" width=400 height=350/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaliah1&label=Profile%20views&color=0e75b6&style=flat" alt="ghaliah1" /> </p>
  
 
