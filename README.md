@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
+<img src="https://th.bing.com/th/id/OIP.FO4_4GhRo4O_25yfB4PdvQHaDe?rs=1&pid=ImgDetMain"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaliah1&label=Profile%20views&color=0e75b6&style=flat" alt="ghaliah1" /> </p>
  
 
