@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
-
- <img src="C:\Users\HP\Downloads\pic.jfif"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaliah1&label=Profile%20views&color=0e75b6&style=flat" alt="ghaliah1" /> </p>
+ 
 
 - 🔭 I’m currently working on **front-end projects , CyberSecurity**
 
