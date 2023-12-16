@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
 
- <img src="https://th.bing.com/th/id/OIP.FO4_4GhRo4O_25yfB4PdvQHaDe?rs=1&pid=ImgDetMain
-" alt="ghaliah1" /> 
+ <img url("https://th.bing.com/th/id/OIP.FO4_4GhRo4O_25yfB4PdvQHaDe?rs=1&pid=ImgDetMain
+") > 
 
 - 🔭 I’m currently working on **front-end projects , CyberSecurity**
 
