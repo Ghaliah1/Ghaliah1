@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
 
-<p align="left"> <img src="C:\Users\HP\Downloads\pic.jfif"
+<p align="left"> <img src="https://www.freepik.com/premium-vector/man-laptop-virtual-reality-control_2620101.htm#page=3&query=computer%20illustration%20space&position=47&from_view=search&track=ais&uuid=85599d56-cb5d-41e2-9b53-c3ba91a6c490"
  alt="ghaliah1" /> </p>
 
 - 🔭 I’m currently working on **front-end projects , CyberSecurity**
