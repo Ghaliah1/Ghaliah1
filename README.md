@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIP.CXSqCBP6mOAehAace2FpDQHaEo?rs=1&pid=ImgDetMain" width=1700px height=20px />
+<img src="https://th.bing.com/th/id/OIP.CXSqCBP6mOAehAace2FpDQHaEo?rs=1&pid=ImgDetMain" width=1700px height=200px />
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
