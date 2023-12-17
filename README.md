@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/R.c75df5b6cd3596a68b22c0ccb3c03494?rik=akxXuUjzPin%2bsQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-cPhSdNVkDAo%2fVkya9FTGPmI%2fAAAAAAAAJWQ%2f75-LEXT6yDs%2fs1600%2flarge.gif&ehk=YUcE19HdRvIhH6xm6caX6rJKPNVQDw1uGzPClrJyZ8Y%3d&risl=&pid=ImgRaw&r=0" width="1700" height="200"/>
+<img src="https://64.media.tumblr.com/4dc7f9d7902c65856e4baa8aeaeaed01/tumblr_owsbgsWF5R1r5u9m2o4_500.gif"/>
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
