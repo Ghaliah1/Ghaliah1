@@ -1,5 +1,6 @@
 <img src="https://th.bing.com/th/id/R.23aeb2832b973a55ae971f2319f92c05?rik=Wt2p7kDnnZK2Ew&riu=http%3a%2f%2fhydrogenhorizon.org%2fwp-content%2fuploads%2f2015%2f07%2fspace1400x260-969x180.png&ehk=It0cVQAqSrYtwv5C%2bc5izMNdGTHqfcICVfSYna6Co00%3d&risl=&pid=ImgRaw&r=0"/>
-<img src="C:\Users\HP\Downloads\R.gif"/>
+<img src="![R](https://github.com/Ghaliah1/Ghaliah1/assets/145565852/f4222e0c-e472-4d41-a71d-2a2f79f5816a)
+"/>
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
