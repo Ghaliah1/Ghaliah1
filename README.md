@@ -1,5 +1,5 @@
 
-<img width="000" height="200" align="center" src="https://media.giphy.com/media/Gu1rNNrMDTfEs/giphy.gif"/>
+<img width="900" height="200" align="center" src="https://media.giphy.com/media/Gu1rNNrMDTfEs/giphy.gif"/>
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
