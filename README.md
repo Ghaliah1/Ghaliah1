@@ -1,5 +1,5 @@
 <img src="https://th.bing.com/th/id/R.23aeb2832b973a55ae971f2319f92c05?rik=Wt2p7kDnnZK2Ew&riu=http%3a%2f%2fhydrogenhorizon.org%2fwp-content%2fuploads%2f2015%2f07%2fspace1400x260-969x180.png&ehk=It0cVQAqSrYtwv5C%2bc5izMNdGTHqfcICVfSYna6Co00%3d&risl=&pid=ImgRaw&r=0"/>
-<img src="https://th.bing.com/th/id/R.a77be9a8c3276babf5a2f506a3424bdc?rik=YPoVxxuW9h9oeA&pid=ImgRaw&r=0" width="700"/>
+<img src="https://th.bing.com/th/id/R.a77be9a8c3276babf5a2f506a3424bdc?rik=YPoVxxuW9h9oeA&pid=ImgRaw&r=0" width="700" height="200" align="center"/>
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
