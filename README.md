@@ -1,5 +1,5 @@
 
-<img width="000" height="200" align="center" src="https://th.bing.com/th/id/R.a77be9a8c3276babf5a2f506a3424bdc?rik=YPoVxxuW9h9oeA&pid=ImgRaw&r=0" />
+<img width="000" height="200" align="center" src="https://media.giphy.com/media/Gu1rNNrMDTfEs/giphy.gif"/>
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
@@ -34,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaliah1&show_icons=true&locale=en&layout=compact" alt="ghaliah1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghaliah1&show_icons=true&locale=en" alt="ghaliah1" /></p>
+
