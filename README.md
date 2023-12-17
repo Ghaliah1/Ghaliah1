@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/4dc7f9d7902c65856e4baa8aeaeaed01/tumblr_owsbgsWF5R1r5u9m2o4_500.gif"/>
+<img src="[https://64.media.tumblr.com/4dc7f9d7902c65856e4baa8aeaeaed01/tumblr_owsbgsWF5R1r5u9m2o4_500.gif](https://th.bing.com/th/id/R.f2665ce25eb296c11452ef51cfa4d88f?rik=XUPyWApGzpLLeQ&riu=http%3a%2f%2ffreesozaixtrain.web.fc2.com%2fline%2fcasiopea-star.gif&ehk=DEi%2fxkPj8cBKGoGDAqM2yBLLUs%2bSNXJjDntCFlLiXOs%3d&risl=&pid=ImgRaw&r=0)"/>
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
