@@ -2,11 +2,12 @@
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
-
+<br>
+<img align="right" width="400 src="https://th.bing.com/th/id/R.4fae230a415b0a3fb12ea09ed6d51616?rik=vSJgwEGiDWN5Mw&pid=ImgRaw&r=0 " />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaliah1&label=Profile%20views&color=0e75b6&style=flat" alt="ghaliah1" /> </p>
  
 <br>
-<img src="https://d3npc921eoaj06.cloudfront.net/wp-content/uploads/2017/11/29102556/API-management-soluzioni.jpg" width=400 height=350 align=right/>
+
 - 🔭 I’m currently working on **front-end projects , CyberSecurity**
 
 - 🌱 I’m currently learning **Cybersecurity**
