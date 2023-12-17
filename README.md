@@ -1,5 +1,5 @@
 
-<img src="https://th.bing.com/th/id/R.a77be9a8c3276babf5a2f506a3424bdc?rik=YPoVxxuW9h9oeA&pid=ImgRaw&r=0" width="000" height="200" align="center"/>
+<img width="000" height="200" align="center" src="https://th.bing.com/th/id/R.a77be9a8c3276babf5a2f506a3424bdc?rik=YPoVxxuW9h9oeA&pid=ImgRaw&r=0" />
 <br>
 <h1 align="center">Hi 👋, I'm Ghaliah !</h1>
 <h3 align="center">CS Student</h3>
