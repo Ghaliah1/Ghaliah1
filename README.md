@@ -1,6 +1,6 @@
-  # ⊹₊˚‧︵‿₊୨ Hello! ୧₊‿︵‧˚₊⊹ 
-
-
+<p align="center">
+  <img src="/.Header.png" alt="Custom Profile Header Banner" />
+</p>
 ### ⟶ About Me :
 
 I'm a Computer Science graduate, ands currently enthusiastically pivoting into the field of **Cybersecurity** with a focus on defense strategies and solutions .
