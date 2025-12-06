@@ -9,12 +9,6 @@ I am dedicated to continuous learning and building robust knowledge in threat an
 
 ---
 
-### ⟶ My Focus & Experience :
-
-* **Current Goal:** Deepening my expertise in defensive security practices .
-* **Core Skills:** Leveraging foundational knowledge in Python and Linux environments to automate security tasks and perform system hardening.
-* **Previous Work:** Experienced with front-end development using HTML, CSS, and JavaScript. You can view some of my projects pinned below!
-
 ### ⟶ Technologies & Skills
 
 These are some of the technologies I have worked with and am actively using or studying.
