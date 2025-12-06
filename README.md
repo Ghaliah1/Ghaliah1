@@ -1,37 +1,39 @@
+  # ⊹₊˚‧︵‿₊୨ Hello! ୧₊‿︵‧˚₊⊹ 
 
-<img width="900" height="200" align="center" src="https://media.giphy.com/media/Gu1rNNrMDTfEs/giphy.gif"/>
-<br>
-<h1 align="center">Hi 👋, I'm Ghaliah !</h1>
-<h3 align="center">CS Student</h3>
-<br>
-<img align="right" width="400 src="[https://th.bing.com/th/id/R.4fae230a415b0a3fb12ea09ed6d51616?rik=vSJgwEGiDWN5Mw&pid=ImgRaw&r=0 ](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaliah1&label=Profile%20views&color=0e75b6&style=flat" alt="ghaliah1" /> </p>
+
+### ⟶ About Me :
+
+I'm a Computer Science graduate, ands currently enthusiastically pivoting into the field of **Cybersecurity** with a focus on defense strategies and solutions .
+I am dedicated to continuous learning and building robust knowledge in threat analysis, incident response, and security monitoring ! .
+
+---
+
+### ⟶ My Focus & Experience :
+
+* **Current Goal:** Deepening my expertise in defensive security practices .
+* **Core Skills:** Leveraging foundational knowledge in Python and Linux environments to automate security tasks and perform system hardening.
+* **Previous Work:** Experienced with front-end development using HTML, CSS, and JavaScript. You can view some of my projects pinned below!
+
+### ⟶ Technologies & Skills
+
+These are some of the technologies I have worked with and am actively using or studying.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-D1D4E2?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/HTML5-D1D4E2?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/CSS3-D1D4E2?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/Python-D1D4E2?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge" />
  
-<br>
-
-- 🔭 I’m currently working on **front-end projects , CyberSecurity**
-
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 👯 I’m looking to collaborate on **front-end projects**
-
-- 🤝 I’m looking for help with **Javascript**
-
-- 💬 Ask me about **basic front-end skills**
-
-- 📫 How to reach me **aldossarighaliah@gmail.com**
-
-- ⚡ Fun fact **I'm strong**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cs_ghala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cs_ghala" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
+### ⟶ Connect With Me :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaliah1&show_icons=true&locale=en&layout=compact" alt="ghaliah1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghaliah1&show_icons=true&locale=en" alt="ghaliah1" /></p>
-
+<p align="left">
+  <a href="www.linkedin.com/in/ghaliah-aldossari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/CS_Ghala" target="_blank">
+    <img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=000000" alt="X (Twitter) Badge"/>
+  </a>
+</p>
