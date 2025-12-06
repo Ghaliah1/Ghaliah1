@@ -1,6 +1,7 @@
 <p align="center">
   <img src="/.Header.png" alt="Custom Profile Header Banner" />
 </p>
+
 ### ⟶ About Me :
 
 I'm a Computer Science graduate, ands currently enthusiastically pivoting into the field of **Cybersecurity** with a focus on defense strategies and solutions .
@@ -30,7 +31,7 @@ These are some of the technologies I have worked with and am actively using or s
 ### ⟶ Connect With Me :
 
 <p align="left">
-  <a href="www.linkedin.com/in/ghaliah-aldossari" target="_blank">
+  <a href="https://www.linkedin.com/in/ghaliah-aldossari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/CS_Ghala" target="_blank">
