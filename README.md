@@ -4,14 +4,14 @@
 
 ### ⟶ About Me :
 
-I'm a Computer Science graduate, ands currently enthusiastically pivoting into the field of **Cybersecurity** with a focus on defense strategies and solutions .
-I am dedicated to continuous learning and building robust knowledge in threat analysis, incident response, and security monitoring ! .
+I'm a Computer Science graduate, and currently enthusiastically pivoting into the field of **Cybersecurity** with a focus on defense strategies and solutions .
+I am dedicated to continuous learning and building robust knowledge in threat analysis, incident response, and security monitoring ! 
 
 ---
 
-### ⟶ Technologies & Skills
+### ⟶ Technologies & Skills :
 
-These are some of the technologies I have worked with and am actively using or studying.
+These are some of the technologies I have worked with and am actively using or studying :
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-D1D4E2?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
