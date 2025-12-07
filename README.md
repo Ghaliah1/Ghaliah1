@@ -29,6 +29,6 @@ These are some of the technologies I have worked with and am actively using or s
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/CS_Ghala" target="_blank">
-    <img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=000000" alt="X (Twitter) Badge"/>
+<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=x&logoColor=black" alt="X" height="30"/>
   </a>
 </p>
