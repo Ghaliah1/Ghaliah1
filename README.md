@@ -18,7 +18,8 @@ These are some of the technologies I have worked with and am actively using or s
   <img src="https://img.shields.io/badge/HTML5-D1D4E2?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-D1D4E2?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/Python-D1D4E2?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge" />
- 
+  <img src="https://img.shields.io/badge/Linux-D1D4E2?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux Badge" />
+   <img src="https://img.shields.io/badge/Wazuh-D1D4E2?style=for-the-badge&logo=Wazuh&logoColor=black" alt="Wazuh Badge" />
 </p>
 
 ---
