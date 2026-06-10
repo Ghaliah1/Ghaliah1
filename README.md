@@ -32,7 +32,4 @@ These are some of the technologies I have worked with and am actively using or s
   <a href="https://www.linkedin.com/in/ghaliah-aldossari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/CS_Ghala" target="_blank">
-<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=x&logoColor=black" alt="X" height="30"/>
-  </a>
 </p>
