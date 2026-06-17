@@ -22,7 +22,7 @@ These are some of the technologies I have worked with and am actively using or s
   <img src="https://img.shields.io/badge/Wireshark-D1D4E2?style=for-the-badge&logo=Wireshark&logoColor=black" alt="Wireshark Badge" />
   <img src="https://img.shields.io/badge/Wazuh-D1D4E2?style=for-the-badge&logo=Wazuh&logoColor=black" alt="Wazuh Badge" />
   <img src="https://img.shields.io/badge/Splunk-D1D4E2?style=for-the-badge&logo=Splunk&logoColor=black" alt="Splunk Badge" />
-
+ <img src="https://img.shields.io/badge/Nmap-D1D4E2?style=for-the-badge&logo=Nmap&logoColor=black" alt="Nmap Badge" />
 </p>
 
 ---
